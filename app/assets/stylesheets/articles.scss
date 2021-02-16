@@ -2,7 +2,7 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
 
-.articles {
+ul {
   list-style: none;
   padding: 0;
   margin: 0;
@@ -10,4 +10,18 @@
 
 li {
   margin: 10px;
+}
+
+.link {
+  color: black;
+padding: 10px 5px;
+}
+
+.label {
+  padding-right: 27px;
+}
+
+.container {
+  width: 400px;
+  border: 1px solid black;
 }
